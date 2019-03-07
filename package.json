@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "apollo-react-next": "https://imshealth.myget.org/F/apollo/auth/1963048a-0a1a-4f87-8732-a15a2d54e73e/npm/apollo-react-next/-/2.1.1-beta",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.6"
+    "react-redux": "^6.0.1",
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1",
+    "uuid": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
